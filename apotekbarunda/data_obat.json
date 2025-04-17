@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nama": "Paracetamol",
+        "harga": 5000,
+        "stok": 98
+    },
+    {
+        "id": 2,
+        "nama": "Amoxicillin",
+        "harga": 15000,
+        "stok": 48
+    },
+    {
+        "id": 3,
+        "nama": "Vitamin C",
+        "harga": 20000,
+        "stok": 72
+    },
+    {
+        "id": 4,
+        "nama": "Antangin",
+        "harga": 10000,
+        "stok": 28
+    },
+    {
+        "id": 5,
+        "nama": "Bodrex",
+        "harga": 8000,
+        "stok": 59
+    },
+    {
+        "id": 6,
+        "nama": "Inhaler",
+        "harga": "20.000",
+        "stok": 10
+    },
+    {
+        "id": 7,
+        "nama": "mylanta",
+        "harga": "35.000",
+        "stok": "12"
+    }
+]
